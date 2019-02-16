@@ -97,7 +97,7 @@
 ### Treasure
 - Item 23 Chainmail
 
-City 1 - Bar brawl
+## City 1 - Bar brawl
 ### Option A
 - Gain 10 experience each
 - Lose 1 reputation
