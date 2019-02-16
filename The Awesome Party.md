@@ -1,9 +1,18 @@
 # Gloomhaven-History
 
-| Property | Value |
-| --- | --- |
-| Reputation | -2 |
-| Prosperity | 5 |
+| Event | Reputation | Prosperity |
+| --- | --- | --- |
+| Road 12 | 1 |  |
+| Scenario 2 |  | 1 |
+| City 22 | 2 |  |
+| City 15 | -2 |  |
+| Scenario 3 |  | 1 |
+| Road 26 | -1 |  |
+| Scenario 9 |  | 1 |
+| City 12 | 1 |  |
+| Scenario 11 | -2 | 2 |
+| City 1 | -1 |  |
+|  | **-2** | **5** |
 
 ## Road 12 - The puppy
 ### Option B
