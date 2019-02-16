@@ -12,7 +12,7 @@
 | City 12 | 1 |  |
 | Scenario 11 | -2 | 2 |
 | City 1 | -1 |  |
-|  | **-2** | **5** |
+| **Totals** | **-2** | **5** |
 
 ## Road 12 - The puppy
 ### Option B
