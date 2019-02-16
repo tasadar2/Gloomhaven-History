@@ -95,7 +95,7 @@
 - 2 prosperity
 - Add to shop Item 113 - Skullbane Axe
 ### Treasure
-- Item 23 Chainmail
+- Item 23 - Chainmail
 
 ## City 1 - Bar brawl
 ### Option A
