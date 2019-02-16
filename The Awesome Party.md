@@ -1,5 +1,10 @@
 # Gloomhaven-History
 
+| Property | Value |
+| --- | --- |
+| Reputation | -2 |
+| Prosperity | 5 |
+
 ## Road 12 - The puppy
 ### Option B
 - One starts with 3x -1 cards.
