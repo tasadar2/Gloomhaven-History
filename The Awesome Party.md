@@ -29,7 +29,7 @@
 - All start scenario with 4 damage
 
 ## Scenario 67 - Arcane Library
-- Ancient Technology
+- Global Achievement - Ancient Technology
 - Item 132 - Power Core
 ### Treasure
 - 10?
